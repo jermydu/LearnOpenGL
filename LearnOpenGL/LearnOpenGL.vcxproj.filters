@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LearnOpenGL.cpp">
+    <ClCompile Include="helloworld.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="..\glad\src\glad.c">
